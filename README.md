@@ -20,7 +20,7 @@ Ejercicio basado en el anterior realizado aplicando constructor.
 Este programa imprime un mensaje por consola según la cantidad de kilometraje del un auto. 
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
 
-*[AutoConstruc]
+**[AutoConstruc]**
 Ejercicio basado en el anterior realizado aplicando constructor. 
 
 
@@ -35,7 +35,7 @@ Este programa calcula el área de un rectángulo a partir de del método área y
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
 
 
-***[Lavarropas]** 
+**[Lavarropas]** 
 Este prgrama simula una carga simple en un lavarropas teniendo en cuenta la cantidad de kilos, tipo de ropa y tipo de lavado según el ingreso de datos marcados por el usuario. Finalmente avisa cuando termina el lavaropas termina el proceso. 
 
 
