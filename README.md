@@ -37,7 +37,7 @@ Este programa simula una carga simple en un lavarropas teniendo en cuenta la can
 
 
 **[Encapsulamiento y Encap2]**
-Ejercicos anteriores modificados para utilizar encapsulamiento junto con setters y getters.
+Ejercicios anteriores modificados para utilizar encapsulamiento junto con setters y getters.
 
 
 **[Operaciones]**
