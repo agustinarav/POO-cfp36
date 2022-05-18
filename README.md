@@ -49,7 +49,7 @@ El programa realiza las cuentas correspondiente a cada clase heredada.
 Ejercicio similar al anterior realizado para ver el uso de polimorfismo. 
 
 
-**[Librería]**
+**[Libreria]**
 Este programa simula el préstamo y devolución en una librería. Se pide que se ingrese la acción a realizar (prestar/devolver).
 Si el usuario selecciona la opción *1.prestar* el programa imprimirá en consola:
 * Respuesta: 1
@@ -60,13 +60,13 @@ Si el usuario selecciona la opción *1.prestar* el programa imprimirá en consol
 * Disponibles a la fecha: 
 
 Se le pedirá al usuario que ingrese los tomos a prestar.
-Sí es posible prestar el libro devolverá true junto con la actualización de cantidad de libros prestados y libros totales ahora diponibles. 
-*Devolver* plantea lo mismo pero basaándose en en el número de libros prestados. 
+Si es posible prestar el libro devolverá true junto con la actualización de cantidad de libros prestados y libros totales ahora diponibles. 
+*Devolver* plantea lo mismo pero basándose en en el número de libros prestados. 
 [Librería Devolución](https://drive.google.com/file/d/1eu016lEAwjGVPb6ofxhXrkvY8odVQXzz/view?usp=sharing)
 
 
 
 **[Calculadora]**
-Creación de una calculadora a partir de JFrame form 
+Creación de una calculadora a partir de JFrame form.
 
 
