@@ -1,6 +1,6 @@
 # POO-cfp36
 ### Info
-Trabajos de programación orientada a objetos curso cfp36 
+Trabajos de programación orientada a objetos. Curso cfp36 
 
 ***
 ### Guía de ejercicios 
