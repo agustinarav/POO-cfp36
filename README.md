@@ -1,30 +1,30 @@
 # POO-cfp36
 ## General Info
-***
 Trabajos de programación orientada a objetos curso cfp36 
 
-## Guía de ejercicios 
+***
+### Guía de ejercicios 
 
-*PerroMascota
+*[PerroMascota]
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
 Este programa muestra la creación de un objeto perro con los atributos nombre, raza, color y edad. Posee tres métodos: 
 1) Pedir datos 
 2) Muestra un mensaje 
 3) Imprime una ficha de los datos ingresados 
 
-*Perroconstruct
+*[Perroconstruct]
 Ejercicio basado en el anterior realizado aplicando constructor. 
 
 
-*Auto
+*[Auto]
 Este programa imprime un mensaje por consola según la cantidad de kilometraje del un auto. 
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
 
-*AutoConstruc
+*[AutoConstruc]
 Ejercicio basado en el anterior realizado aplicando constructor. 
 
 
-* [CuentaBancaria]
+*[CuentaBancaria]
 Este programa simula la extracción en un cajero. Posee un método extraer donde se preguntarán nombre del titular, tipo de caja de ahorro y saldo a extraer. 
 Luego de que el usuario ingrese los datos correspondientes, se imprime una ficha con los datos mencionados, saldo actual y saldo extraído. 
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
