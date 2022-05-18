@@ -13,15 +13,15 @@ Este programa muestra la creación de un objeto perro con los atributos nombre, 
 3) Imprime una ficha de los datos ingresados 
 
 **[Perroconstruct]**
-Ejercicio basado en el anterior realizado aplicando constructor. 
+Ejercicio basado en el anterior aplicando constructor. 
 
 
 **[Auto]**
-Este programa imprime un mensaje por consola según la cantidad de kilometraje del un auto. 
+Este programa imprime un mensaje por consola según la cantidad de kilometraje de un auto. 
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
 
 **[AutoConstruc]**
-Ejercicio basado en el anterior realizado aplicando constructor. 
+Ejercicio basado en el anterior aplicando constructor. 
 
 
 **[CuentaBancaria]**
@@ -31,16 +31,16 @@ Creación de clase, atributos y método. Instanciar un objeto e impresión de me
 
 
 **[Rectangulo]** 
-Este programa calcula el área de un rectángulo a partir de del método área y muestra el resultado obtenido. 
-Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
+Este programa calcula el área de un rectángulo a partir del método área y muestra el resultado obtenido. 
+
 
 
 **[Lavarropas]** 
-Este prgrama simula una carga simple en un lavarropas teniendo en cuenta la cantidad de kilos, tipo de ropa y tipo de lavado según el ingreso de datos marcados por el usuario. Finalmente avisa cuando termina el lavaropas termina el proceso. 
+Este prgrama simula una carga simple en un lavarropas teniendo en cuenta la cantidad de kilos, tipo de ropa y tipo de lavado según el ingreso de datos marcados por el usuario. Finalmente avisa cuando el lavaropas termina el proceso. 
 
 
 **[Encapsulamiento y Encap2]**
-Ejercicos anteriores modificados para utilizar encapsulamiento junto con setters y getters
+Ejercicos anteriores modificados para utilizar encapsulamiento junto con setters y getters.
 
 
 **[Operaciones]**
