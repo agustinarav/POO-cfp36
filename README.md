@@ -1,5 +1,5 @@
 # POO-cfp36
-### General Info
+### Info
 Trabajos de programación orientada a objetos curso cfp36 
 
 ***
@@ -18,7 +18,7 @@ Ejercicio basado en el anterior aplicando constructor.
 
 **[Auto]**
 Este programa imprime un mensaje por consola según la cantidad de kilometraje de un auto. 
-Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
+Creación de clase, atributos y método. Instancia de un objeto e impresión de mensaje por consola. 
 
 **[AutoConstruc]**
 Ejercicio basado en el anterior aplicando constructor. 
@@ -27,7 +27,7 @@ Ejercicio basado en el anterior aplicando constructor.
 **[CuentaBancaria]**
 Este programa simula la extracción en un cajero. Posee un método extraer donde se preguntarán nombre del titular, tipo de caja de ahorro y saldo a extraer. 
 Luego de que el usuario ingrese los datos correspondientes, se imprime una ficha con los datos mencionados, saldo actual y saldo extraído. 
-Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
+Creación de clase, atributos y método. IInstancia de un objeto e impresión de mensaje por consola. 
 
 
 **[Rectangulo]** 
@@ -52,9 +52,24 @@ El programa realiza las cuentas correspondiente a cada clase heredada.
 Ejrcicio similar al anterior realizado para ver el uso de polimorfismo. 
 
 
+**[Librería]**
+Este programa simula el préstamo y devolución en una librería. Se pide que se ingrese la acción a realizar (prestar/devolver).
+Si el usuario selecciona la opción *1.prestar* el programa imprimirá en consola:
+*Respuesta: 1
+*Titulo: El quijote
+*Autor: Cervantes
+*Numero de tomos totales : 
+*Prestados: 
+*Disponibles a la fecha: 
+
+Se le pedirá al usuario que ingrese los tomos a prestar.
+Sí es posible prestar el libro devolverá true junto con la actualización de cantidad de libros prestados y libros totales ahora diponibles. 
+*Devolver* plantea lo mismo pero basaándose en en el número de libros prestados. 
+![Librería Devolución]( ttps://drive.google.com/file/d/1eu016lEAwjGVPb6ofxhXrkvY8odVQXzz/view?usp=sharing)
 
 
 
+**[Calculadora]**
 
 
 
