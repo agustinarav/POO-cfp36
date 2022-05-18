@@ -27,7 +27,7 @@ Ejercicio basado en el anterior aplicando constructor.
 **[CuentaBancaria]**
 Este programa simula la extracción en un cajero. Posee un método extraer donde se preguntarán nombre del titular, tipo de caja de ahorro y saldo a extraer. 
 Luego de que el usuario ingrese los datos correspondientes, se imprime una ficha con los datos mencionados, saldo actual y saldo extraído. 
-Creación de clase, atributos y método. IInstancia de un objeto e impresión de mensaje por consola. 
+Creación de clase, atributos y método. Instancia de un objeto e impresión de mensaje por consola. 
 
 
 **[Rectangulo]** 
