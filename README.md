@@ -7,17 +7,14 @@ Trabajos de programación orientada a objetos. Curso cfp36
 
 **[PerroMascota]**
 Creación de clase, atributos y método. Instanciar un objeto e impresión de mensaje por consola. 
-Este programa muestra la creación de un objeto perro con los atributos nombre, raza, color y edad. Posee tres métodos: 
-1) Pedir datos 
-2) Muestra un mensaje 
-3) Imprime una ficha de los datos ingresados 
+Este programa muestra la creación de un objeto perro con los atributos nombre, raza, color y edad. Posee tres métodos: pedir datos, muestra un mensaje y el útimo imprime una ficha de los datos ingresados. 
 
 **[Perroconstruct]**
 Ejercicio basado en el anterior aplicando constructor. 
 
 
 **[Auto]**
-Este programa imprime un mensaje por consola según la cantidad de kilometraje de un auto. 
+Este programa imprime un mensaje por consola sobre el estado del auto según la cantidad de kilometraje ingresado. 
 Creación de clase, atributos y método. Instancia de un objeto e impresión de mensaje por consola. 
 
 **[AutoConstruc]**
@@ -25,7 +22,7 @@ Ejercicio basado en el anterior aplicando constructor.
 
 
 **[CuentaBancaria]**
-Este programa simula la extracción en un cajero. Posee un método extraer donde se preguntarán nombre del titular, tipo de caja de ahorro y saldo a extraer. 
+Este programa simula la extracción en un cajero. Posee un método extraer donde se preguntará nombre del titular, tipo de caja de ahorro y saldo a extraer. 
 Luego de que el usuario ingrese los datos correspondientes, se imprime una ficha con los datos mencionados, saldo actual y saldo extraído. 
 Creación de clase, atributos y método. Instancia de un objeto e impresión de mensaje por consola. 
 
@@ -36,7 +33,7 @@ Este programa calcula el área de un rectángulo a partir del método área y mu
 
 
 **[Lavarropas]** 
-Este prgrama simula una carga simple en un lavarropas teniendo en cuenta la cantidad de kilos, tipo de ropa y tipo de lavado según el ingreso de datos marcados por el usuario. Finalmente avisa cuando el lavaropas termina el proceso. 
+Este programa simula una carga simple en un lavarropas teniendo en cuenta la cantidad de kilos, tipo de ropa y tipo de lavado según el ingreso de datos marcados por el usuario. Finalmente avisa cuando el lavaropas termina el proceso. 
 
 
 **[Encapsulamiento y Encap2]**
@@ -49,7 +46,7 @@ El programa realiza las cuentas correspondiente a cada clase heredada.
 
 
 **[Polioperaciones]**
-Ejrcicio similar al anterior realizado para ver el uso de polimorfismo. 
+Ejercicio similar al anterior realizado para ver el uso de polimorfismo. 
 
 
 **[Librería]**
@@ -70,6 +67,6 @@ Sí es posible prestar el libro devolverá true junto con la actualización de c
 
 
 **[Calculadora]**
-
+Creación de una calculadora a partir de JFrame form 
 
 
