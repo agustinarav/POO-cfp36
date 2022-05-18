@@ -65,7 +65,7 @@ Si el usuario selecciona la opción *1.prestar* el programa imprimirá en consol
 Se le pedirá al usuario que ingrese los tomos a prestar.
 Sí es posible prestar el libro devolverá true junto con la actualización de cantidad de libros prestados y libros totales ahora diponibles. 
 *Devolver* plantea lo mismo pero basaándose en en el número de libros prestados. 
-![Librería Devolución]( https://drive.google.com/file/d/1eu016lEAwjGVPb6ofxhXrkvY8odVQXzz/view?usp=sharing)
+[Librería Devolución](https://drive.google.com/file/d/1eu016lEAwjGVPb6ofxhXrkvY8odVQXzz/view?usp=sharing)
 
 
 
