@@ -66,6 +66,18 @@ Si es posible prestar el libro devolverá true junto con la actualización de ca
 
 
 
+**[Ej17y18]**
+Este programa genera un formulario sencillo con un título y una etiqueta utilizando la librería swing. 
+
+
+**[InterfacesJoption1]**
+Este programa genera una formulario que permite ingresar un dato y al seleccionar el botón *mostrar* abrirá un JOptionPane con el dato anteriormente escrito. 
+
+
+**[AltaDeUsuario]**
+Este programa genera un formulario que permite ingresar nombre, apellido, seleccionar género y agregar un teléfono. Al presionar *Guardar*  muestra un JOptionPane con los datos ingresados.
+
+
 **[Calculadora]**
 Creación de una calculadora a partir de JFrame form.
 
