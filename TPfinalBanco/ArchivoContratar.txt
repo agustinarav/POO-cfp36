@@ -1,0 +1,285 @@
+________________________________________________________________
+
+PRUEBA 1 
+
+_
+
+	 
+ 
+SEGURO VEHÍCULO 
+	 
+ CUIL/CUIT: 1111111111111111 Nombre y Apellido: PRUEBA 1  Teléfono: 1111111111111111 E-Mail: PRUEBA1@PRUEBA1	 
+  Dominio: 1111111 Marca: FORD Modelo: Punto Franquicia:  Coberturas: Terceros CompletoResponsabilidad CivilTodo Riesgo sin FranquiciaTodo Riesgo con FranquiciaGranizo Año: 11111111	 
+ 
+ SEGURO HOGAR 
+	 
+  Coberturas: IncendioRobo Inundación Elementos dañados/robados : HeladeraLavaropasTelevisorNotebookConsola GamesCocina Tipo de cobertura : Parcial	 
+ 
+SEGURO VEHÍCULO 
+	 
+ CUIL/CUIT: 1111111111111111 Nombre y Apellido: PRUEBA 1  Teléfono: 1111111111111111 E-Mail: PRUEBA1@PRUEBA1	 
+  Dominio: 1111111 Marca: FORD Modelo: Punto Franquicia:  Coberturas: Terceros CompletoResponsabilidad CivilTodo Riesgo sin FranquiciaTodo Riesgo con FranquiciaGranizo Año: 11111111	 
+ 
+ SEGURO HOGAR 
+	 
+  Coberturas: IncendioRobo Inundación Elementos dañados/robados : HeladeraLavaropasTelevisorNotebookConsola GamesCocina Tipo de cobertura : Media
+
+
+___________________________________________________________________
+
+PRUEBA 2 
+
+_
+
+	 
+ 
+SEGURO VEHÍCULO 
+	 
+ CUIL/CUIT: 22222222222222 Nombre y Apellido: PRUEBA2 Teléfono: 423423234 E-Mail: PRUEBA2@PRUEBA2	 
+  Dominio: 222222222 Marca: FIAT Modelo: 500 Franquicia: 20000 Coberturas: Terceros CompletoResponsabilidad CivilTodo Riesgo sin FranquiciaTodo Riesgo con FranquiciaGranizo Año: 22222222222	 
+ 
+ SEGURO HOGAR 
+	 
+  Coberturas: IncendioRobo Inundación Elementos dañados/robados : HeladeraLavaropasTelevisorNotebookConsola GamesCocina Tipo de cobertura : Media
+
+
+________________________________________________________________
+
+PRUEBA 3
+
+_
+
+
+	 
+ 
+SEGURO VEHÍCULO 
+	 
+ CUIL/CUIT: 3333333333333333 Nombre y Apellido: PRUEBA 3  Teléfono: 333333333333 E-Mail: PRUEBA3@PRUEBA3 	 
+  Dominio: 333333333333 Marca: AUDI Modelo: Palio Franquicia: 60000 Coberturas: Terceros Completo
+Responsabilidad Civil
+Todo Riesgo sin Franquicia
+Todo Riesgo con Franquicia
+Granizo Año: 333333	 
+ 
+ SEGURO HOGAR 
+	 
+  Coberturas: Incendio
+Robo 
+Inundación Elementos dañados/robados : Heladera
+Lavaropas
+Televisor
+Notebook
+Consola Games
+Cocina Tipo de cobertura : Total
+
+
+________________________________________________________________
+
+PRUEBA 4
+
+_
+
+	 
+
+SEGURO VEHÍCULO 
+
+ CUIL/CUIT: 4444444444 Nombre y Apellido: PRUEBA4 Teléfono: 4444444444444444444 E-Mail: PRUEBA4@PRUEBA4
+Dominio: 4444444
+Marca: AUDI
+Modelo: Fiesta
+Franquicia: 80000
+Coberturas: 
+Terceros Completo
+Responsabilidad Civil
+Todo Riesgo sin Franquicia
+Todo Riesgo con Franquicia
+Granizo
+ Año: 444444	 
+
+SEGURO HOGAR 
+
+Coberturas: 
+Incendio
+Robo 
+Inundación
+Elementos dañados/robados : 
+Heladera
+Lavaropas
+Televisor
+Notebook
+Consola Games
+Cocina
+Tipo de cobertura : Total
+
+________________________________________________________________
+
+PRUEBA 5
+
+_
+
+
+
+ CUIL/CUIT: 55555555 Nombre y Apellido: PRUEBA5 Teléfono: 5555555 E-Mail: PRUEBA5@PRUEBA5	 
+
+SEGURO VEHÍCULO 
+
+Dominio: 5555
+Marca: FORD
+Modelo: Ecosport
+Franquicia: 
+Coberturas: 
+Terceros Completo
+Responsabilidad Civil
+Todo Riesgo sin Franquicia
+Todo Riesgo con Franquicia
+Granizo
+Año: 55555	 
+
+SEGURO HOGAR 
+
+Coberturas: 
+Incendio
+Robo 
+Inundación
+Elementos dañados/robados : 
+Heladera
+Lavaropas
+Televisor
+Notebook
+Consola Games
+Cocina
+Tipo de cobertura : Total
+
+
+________________________________________________________________
+
+PRUEBA 6
+
+_
+
+
+	
+CUIL/CUIT: 666666666666666666666666
+Nombre y Apellido: 
+Teléfono: 
+E-Mail: 	 
+
+SEGURO VEHÍCULO 
+
+Dominio: 
+Marca: 
+Modelo: 
+Franquicia: 
+Coberturas: 
+Terceros Completo
+Responsabilidad Civil
+Granizo
+Todo Riesgo sin Franquicia
+Todo Riesgo con Franquicia
+Año: 	 
+
+SEGURO HOGAR 
+
+Coberturas: 
+
+
+
+Elementos dañados/robados : 
+
+
+
+
+
+
+Tipo de cobertura : Parcial
+
+________________________________________________________________
+
+PRUEBA 7
+
+_
+
+	
+CUIL/CUIT: 777777777777777777
+Nombre y Apellido: 77777777777777777777777
+Teléfono: 7777777
+E-Mail: 	 
+
+SEGURO VEHÍCULO 
+
+Dominio: 
+Marca: 
+Modelo: 
+Franquicia: 
+Coberturas: 
+
+
+
+
+
+Año: 	 
+
+SEGURO HOGAR 
+
+Coberturas: 
+
+
+
+Elementos dañados/robados : 
+[Ljavax.swing.JCheckBox;@774dc13b
+Tipo de cobertura : Parcial
+
+
+
+________________________________________________________________
+
+PRUEBA 8
+
+_
+
+
+CUIL/CUIT: 88888888888
+Nombre y Apellido: 88888888888
+Teléfono: 88888888888
+E-Mail: 888888888	 
+
+SEGURO VEHÍCULO 
+
+Dominio: 88888
+Marca: FORD
+Modelo: 
+Franquicia: 
+Coberturas: 
+Incendio
+Robo 
+
+
+
+
+Año: 8888	 
+
+SEGURO HOGAR 
+
+Coberturas: 
+
+
+Inundación
+Elementos dañados/robados : 
+
+Lavaropas
+
+
+
+
+Tipo de cobertura : Media	 
+
+SEGURO VIDA 
+
+Coberturas: 
+Muerte
+ Días:  30
+
+ Beneficiario 
+Item 1
+
+
